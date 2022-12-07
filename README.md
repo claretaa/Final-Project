@@ -103,8 +103,8 @@ http://localhost/Tugas7_Hariyanto/index.php or http://localhost:8081/Tugas7_Hari
 
 
 ## Credit
-> Aqsha Rheyznandya Malik (22/504717/PA/21718)
-> Khalif Anindito Adnan (22/498169/PA/21492)
+> Aqsha Rheyznandya Malik (22/504717/PA/21718) <br>
+> Khalif Anindito Adnan (22/498169/PA/21492) <br>
 > Maria Clareta Febriani (22/505983/PA/21780)
 
 ## License
