@@ -20,73 +20,16 @@ Program ini dibuat menggunakan :
 - [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - Dev C++ adalah sebuah Integrated Development Environment (IDE) C++ yang sudah dilengkapi dengan TDM-GCC Compiler
 - Bahasa Pemrograman : C++
 
+## Petunjuk Penggunaan
+1. User memilih fitur yang ingin dilakukan
+2. User mengisi formulir yang tersedia di dalam fitur yang dijalankan 
+3. Simpan atau selesaikan program
 
 ## Requirement
 - XAMPP 7.4.28 or later
 - PHP 7.4 or later
 - Bootstrap 5 or later
 
-## Structure
-```
-.Aplikasi Kalkulator
-📦Tugas7_Hariyanto
- ┣ 📂bootstrap
- ┃ ┣ 📂css
- ┃ ┃ ┣ 📜bootstrap-grid.css
- ┃ ┃ ┣ 📜bootstrap-grid.css.map
- ┃ ┃ ┣ 📜bootstrap-grid.min.css
- ┃ ┃ ┣ 📜bootstrap-grid.min.css.map
- ┃ ┃ ┣ 📜bootstrap-grid.rtl.css
- ┃ ┃ ┣ 📜bootstrap-grid.rtl.css.map
- ┃ ┃ ┣ 📜bootstrap-grid.rtl.min.css
- ┃ ┃ ┣ 📜bootstrap-grid.rtl.min.css.map
- ┃ ┃ ┣ 📜bootstrap-reboot.css
- ┃ ┃ ┣ 📜bootstrap-reboot.css.map
- ┃ ┃ ┣ 📜bootstrap-reboot.min.css
- ┃ ┃ ┣ 📜bootstrap-reboot.min.css.map
- ┃ ┃ ┣ 📜bootstrap-reboot.rtl.css
- ┃ ┃ ┣ 📜bootstrap-reboot.rtl.css.map
- ┃ ┃ ┣ 📜bootstrap-reboot.rtl.min.css
- ┃ ┃ ┣ 📜bootstrap-reboot.rtl.min.css.map
- ┃ ┃ ┣ 📜bootstrap-utilities.css
- ┃ ┃ ┣ 📜bootstrap-utilities.css.map
- ┃ ┃ ┣ 📜bootstrap-utilities.min.css
- ┃ ┃ ┣ 📜bootstrap-utilities.min.css.map
- ┃ ┃ ┣ 📜bootstrap-utilities.rtl.css
- ┃ ┃ ┣ 📜bootstrap-utilities.rtl.css.map
- ┃ ┃ ┣ 📜bootstrap-utilities.rtl.min.css
- ┃ ┃ ┣ 📜bootstrap-utilities.rtl.min.css.map
- ┃ ┃ ┣ 📜bootstrap.css
- ┃ ┃ ┣ 📜bootstrap.css.map
- ┃ ┃ ┣ 📜bootstrap.min.css
- ┃ ┃ ┣ 📜bootstrap.min.css.map
- ┃ ┃ ┣ 📜bootstrap.rtl.css
- ┃ ┃ ┣ 📜bootstrap.rtl.css.map
- ┃ ┃ ┣ 📜bootstrap.rtl.min.css
- ┃ ┃ ┗ 📜bootstrap.rtl.min.css.map
- ┃ ┗ 📂js
- ┃ ┃ ┣ 📜bootstrap.bundle.js
- ┃ ┃ ┣ 📜bootstrap.bundle.js.map
- ┃ ┃ ┣ 📜bootstrap.bundle.min.js
- ┃ ┃ ┣ 📜bootstrap.bundle.min.js.map
- ┃ ┃ ┣ 📜bootstrap.esm.js
- ┃ ┃ ┣ 📜bootstrap.esm.js.map
- ┃ ┃ ┣ 📜bootstrap.esm.min.js
- ┃ ┃ ┣ 📜bootstrap.esm.min.js.map
- ┃ ┃ ┣ 📜bootstrap.js
- ┃ ┃ ┣ 📜bootstrap.js.map
- ┃ ┃ ┣ 📜bootstrap.min.js
- ┃ ┃ ┗ 📜bootstrap.min.js.map
- ┣ 📂img
- ┃ ┣ 📜Screenshot Tugas6-Hariyanto - Pencil Project.png
- ┃ ┣ 📜Screenshot Tugas6_Hariyanto - Pencil Project.png
- ┃ ┣ 📜tugas6hariyanto.png
- ┃ ┗ 📜tugas6hariyanto_1.png
- ┣ 📜hitung.php
- ┣ 📜index.php
- ┣ 📜style.css
- ┗ 📜Tugas6_Hariyanto.epgz
-```
 ## Instalation
 Pindahkan folder Tugas7_Hariyanto ke dalam folder : 
 ```
