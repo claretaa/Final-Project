@@ -108,6 +108,6 @@ http://localhost/Tugas7_Hariyanto/index.php or http://localhost:8081/Tugas7_Hari
 > Maria Clareta Febriani (22/505983/PA/21780)
 
 ## License
-Fakultas Matematika dan Ilmu Pengetahuan Alam
-Universitas Gadjah Mada
+Fakultas Matematika dan Ilmu Pengetahuan Alam <br>
+Universitas Gadjah Mada <br>
 2022
