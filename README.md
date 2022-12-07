@@ -1,7 +1,7 @@
 # Educational Report
 Final Project Programming Lab
 
-### Tentang Program kKami
+### Tentang Program Kami
 Aplikasi kalkulator ini merupakan aplikasi perhitungan yang terdiri dari penjumlahan, pengurangan, perkalian dan pembagian. 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
@@ -108,4 +108,6 @@ http://localhost/Tugas7_Hariyanto/index.php or http://localhost:8081/Tugas7_Hari
 
 
 ## Credit
-> Hariyanto Kelas JWD 4 (VSGA) 
+> Aqsha Rheyznandya Malik (22/504717/PA/21718)
+> Khalif Anindito Adnan (22/498169/PA/21492)
+> Maria Clareta Febriani (22/505983/PA/21780)
