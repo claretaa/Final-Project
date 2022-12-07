@@ -1,5 +1,7 @@
 # Educational Report
-## Final Project Programming Lab
+Final Project Programming Lab
+
+### Tentang Program kKami
 Aplikasi kalkulator ini merupakan aplikasi perhitungan yang terdiri dari penjumlahan, pengurangan, perkalian dan pembagian. 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
