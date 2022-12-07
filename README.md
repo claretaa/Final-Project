@@ -21,8 +21,8 @@ Program ini dibuat menggunakan :
 - Bahasa Pemrograman : C++
 
 ## Petunjuk Penggunaan
-1. User memilih fitur yang ingin dilakukan
-2. User mengisi formulir yang tersedia di dalam fitur yang dijalankan 
+1. Pilih fitur yang ingin dilakukan
+2. Isi formulir yang tersedia di dalam fitur yang dijalankan 
 3. Simpan atau selesaikan program
 
 ## Requirement
