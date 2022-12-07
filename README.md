@@ -23,27 +23,11 @@ Program ini dibuat menggunakan :
 ## Petunjuk Penggunaan
 1. Pilih fitur yang ingin dilakukan
 2. Isi formulir yang tersedia di dalam fitur yang dijalankan 
-3. Simpan atau selesaikan program
+3. Simpan data atau selesaikan program
 
 ## Requirement
-- XAMPP 7.4.28 or later
-- PHP 7.4 or later
-- Bootstrap 5 or later
-
-## Instalation
-Pindahkan folder Tugas7_Hariyanto ke dalam folder : 
-```
-C:\Xampp\htdocs\
-```
-Start apache pada XAMPP
-
-Akses pada browser dengan url
-
-
-```
-http://localhost/Tugas7_Hariyanto/index.php or http://localhost:8081/Tugas7_Hariyanto/index.php
-```
-
+- Visual Studio Code
+- Dev-C++ 5.11
 
 ## Credit
 > Aqsha Rheyznandya Malik (22/504717/PA/21718) <br>
